@@ -6,5 +6,6 @@
 
 <p align="center">
   Kangwon Science High School, 33rd (2025.03.03 ~ ) · President for KERAS Club<br>
+  AI Researcher<br>
   gyulwow@icloud.com
 </p>
