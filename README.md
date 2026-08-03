@@ -5,6 +5,6 @@
 <h1 align="center">Jang Jae Hyeon (장재현)</h1>
 
 <p align="center">
-  Kangwon Science High School, Class of 33 · President for KERAS Club<br>
+  Kangwon Science High School, 33rd (2025.03.03 ~ ) · President for KERAS Club<br>
   gyulwow@icloud.com
 </p>
